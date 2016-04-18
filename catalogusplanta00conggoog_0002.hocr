@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogusplanta00conggoog_0002.png"; bbox 0 0 3076 5130; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 694 1599 793 1637">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 694 1599 793 1637">
+     <span class='ocr_line' id='line_1_1' title="bbox 694 1599 793 1637; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 694 1599 730 1637; x_wconf 86' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 740 1599 793 1637; x_wconf 85' lang='lat' dir='ltr'><strong>THE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 497 1718 991 1942">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 497 1718 991 1942">
+     <span class='ocr_line' id='line_1_2' title="bbox 497 1718 991 1780; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 497 1718 687 1780; x_wconf 89' lang='lat' dir='ltr'><strong>ARNOLD</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 706 1718 991 1780; x_wconf 89' lang='lat' dir='ltr'>ARBORETUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 566 1859 916 1942; baseline -0.006 -20"><span class='ocrx_word' id='word_1_5' title='bbox 566 1860 767 1942; x_wconf 88' lang='lat' dir='ltr'>JAMAICA</span> <span class='ocrx_word' id='word_1_6' title='bbox 784 1859 916 1921; x_wconf 90' lang='lat' dir='ltr'>PLAIN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 498 3493 994 3556">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 498 3493 994 3556">
+     <span class='ocr_line' id='line_1_4' title="bbox 498 3493 994 3556; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 498 3493 707 3555; x_wconf 90' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_8' title='bbox 726 3493 994 3556; x_wconf 88' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1542 5124">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1542 5124">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1542 5124; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1542 5124; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
